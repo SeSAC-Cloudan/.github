@@ -43,7 +43,9 @@ Java 17, Spring Boot로 서비스를 구현해봐요.
 <!-- Side Project 리포지토리 페이지 -->
 <!-- Side Project 노션 페이지 -->
 
-## 스터디원
+<br>
+
+## 💁‍♀️ 스터디원
 
 |이름|Github|
 |---|---|
