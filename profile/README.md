@@ -6,17 +6,6 @@
 
 <br>
 
-## 스터디원
-
-|이름|Github|
-|---|---|
-|이한나|[깃허브 링크](https://github.com/12ka39)|
-|임진희|[깃허브 링크](https://github.com/liimjiin)|
-|임혜린|[깃허브 링크](https://github.com/hyerin315)|
-|표지수|[깃허브 링크](https://github.com/JisooPyo)|
-
-<br>
-
 ## 👩‍🏫 스터디 리포지토리 소개
 
 ### 1️⃣ Algorithm Study
@@ -53,3 +42,12 @@ Java 17, Spring Boot로 서비스를 구현해봐요.
 
 <!-- Side Project 리포지토리 페이지 -->
 <!-- Side Project 노션 페이지 -->
+
+## 스터디원
+
+|이름|Github|
+|---|---|
+|이한나|[깃허브 링크](https://github.com/12ka39)|
+|임진희|[깃허브 링크](https://github.com/liimjiin)|
+|임혜린|[깃허브 링크](https://github.com/hyerin315)|
+|표지수|[깃허브 링크](https://github.com/JisooPyo)|
