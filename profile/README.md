@@ -27,7 +27,7 @@
 
 각자 풀이를 Pull Request로 올리고 코드 리뷰를 진행해요.
 
-알고리즘 스터디 리포지토리 바로가기 -> [링크](https://github.com/SeSAC-Cloudan/Algorithm)
+[알고리즘 스터디 리포지토리 링크](https://github.com/SeSAC-Cloudan/Algorithm)
 
 <!-- Algorithm Study 노션 페이지 -->
 
@@ -39,7 +39,7 @@ Java 17, Spring Boot로 간단한 애플리케이션을 구현해요.
 
 같이 Pull Request와 코드 리뷰를 하며 Git에 익숙해지고 협업 능력을 키워요.
 
-미니 프로젝트 리포지토리 바로가기 -> [링크](https://github.com/SeSAC-Cloudan/MiniProject)
+[미니 프로젝트 리포지토리 링크](https://github.com/SeSAC-Cloudan/MiniProject)
 
 <!-- Mini Project 노션 페이지 -->
 
